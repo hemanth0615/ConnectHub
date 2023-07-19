@@ -43,11 +43,11 @@ node index.js
 
 
 ```
-API Documentation
+## API Documentation
 
 For detailed information on the available API endpoints and how to interact with them, refer to the [API Documentation](api-docs.md) file.
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
