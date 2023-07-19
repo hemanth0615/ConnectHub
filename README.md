@@ -40,8 +40,6 @@ npm install
 ```
 node index.js
 
-
-
 ```
 ## API Documentation
 
