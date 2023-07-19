@@ -25,9 +25,29 @@ ConnectHub Backend is the server-side component of ConnectHub, a social networki
 ```bash
 git clone https://github.com/hemanth0615/ConnectHub.git
 
-2.Install the dependencies:
+
+```
+2. Install the dependencies:
+
+```
 cd server
+
 npm install
 
-3.Start the server:
+```
+
+3. Start the server:
+```
 node index.js
+
+
+
+```
+API Documentation
+
+For detailed information on the available API endpoints and how to interact with them, refer to the [API Documentation](api-docs.md) file.
+
+Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
